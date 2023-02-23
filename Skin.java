@@ -6,6 +6,7 @@ public class Skin {
         //
         // 合并之后我进行了再次的开发
         // 在这里产生新的冲突
+        //我鞥性一下代码
         System.out.println("冲突2");
     }
 }
