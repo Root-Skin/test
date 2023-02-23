@@ -6,6 +6,5 @@ public class Skin {
         while(true){
             System.out.println("22");
         }
-
     }
 }
